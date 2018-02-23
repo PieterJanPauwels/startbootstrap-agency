@@ -114,7 +114,7 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   color: #fed136;
-  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -398,7 +398,7 @@ header.masthead .intro-text .intro-heading {
   width: 2px;
   margin-left: -1.5px;
   content: '';
-  background-color: #e9ecef;
+  background-color: #212529;
 }
 
 .timeline > li {
